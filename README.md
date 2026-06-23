@@ -1,3 +1,6 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F0F6FC&width=650&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten">
   <img alt="Hi, I'm Franz 👋 Creative Computing student at UAS St. Pölten" src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&width=650&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten">
@@ -23,12 +26,12 @@
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Robbymwangi-USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbymwangi-USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
  
   <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robbymwangi-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
 </p>
 </p>
  
