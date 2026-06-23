@@ -1,14 +1,9 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn%22 />
-</p>
- 
-# Hi there, I'm [Your Name] 👋
- 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
- 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F0F6FC&width=650&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten">
+  <img alt="Hi, I'm Franz 👋 Creative Computing student at UAS St. Pölten" src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&width=650&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten">
+</picture>  
+
+🔗 <a href="https://frvnzz.github.io/" target="_blank">Portfolio</a>
  
 ---
  
