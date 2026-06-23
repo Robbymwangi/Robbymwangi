@@ -9,10 +9,7 @@
  
 ---
  
-## Technical Ecosystem
- 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
- 
+## Let me show you my talent &#x1F61B;
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
