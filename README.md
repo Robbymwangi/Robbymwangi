@@ -24,7 +24,7 @@
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
-(https://github-readme-stats.vercel.app/api?username=Robbymwangi)
+  <img src="https://github-readme-stats.vercel.app/api?username=Robbymwangi" />
 </p>
  
 ---
