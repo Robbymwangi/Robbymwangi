@@ -11,7 +11,7 @@
  
 ## Let me show you my talent &#x1F61B;
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,linux,laravel,latex,mongodb,mysql,postgres,supabase,github,git,java,js,nodejs,react,express,jest,cpp,cs,html,css,bootstrap,php,androidstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,laravel,latex,mongodb,mysql,postgres,supabase,github,git,java,js,nodejs,react,express,pest,html,css,bootstrap,php,androidstudio)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,graphql)](https://skillicons.dev)
