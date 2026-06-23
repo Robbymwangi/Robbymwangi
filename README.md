@@ -24,12 +24,9 @@
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
-
-  <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robbymwangi&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
-</p>
 </p>
  
 ---
