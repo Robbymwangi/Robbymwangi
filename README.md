@@ -11,14 +11,13 @@
  
 ## Let me show you my talent &#x1F61B;
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,laravel,latex,mongodb,mysql,postgres,supabase,github,git,java,js,nodejs,react,express,jest,cpp,cs,html,css,bootstrap,php,androidstudio,)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,graphql)](https://skillicons.dev)
 ---
  
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Robbymwangi" />
