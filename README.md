@@ -5,7 +5,7 @@
   <img alt="Hi, Robby here👋 SDE and OSS contributor" src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&width=650&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten">
 </picture>  
 
-🔗 <a href="" target="_blank">Portfolio</a>
+
  
 ---
  
@@ -27,8 +27,11 @@
  
 ## Connect With Me
  
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 **Professional Network:**
+  🔗 <a href="" target="_blank">Portfolio</a>
+  
+- 📧 **Direct Contact:**
+  Email : robbymwangi353@gmail.com
  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
