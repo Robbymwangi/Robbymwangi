@@ -27,11 +27,9 @@
  
 ## Connect With Me
  
-- 💼 **Professional Network:**
-  🔗 <a href="" target="_blank">Portfolio</a>
+- 💼 **Portfolio:** <a href="" target="_blank">Portfolio</a>
   
-- 📧 **Direct Contact:**
-  Email : robbymwangi353@gmail.com
+- 📧 **Reach out to me at:** robbymwangi353@gmail.com
  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
