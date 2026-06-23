@@ -1,5 +1,4 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F0F6FC&width=650&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten">
